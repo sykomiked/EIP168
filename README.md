@@ -2,7 +2,7 @@
 erc: 168
 title: Universal Binary Harmonizer (UBH-168)
 description: A universal 168-bit binary frame standard for cross-dialect communication.
-author: Michael Laurence Curzi (@jollydragonroger)
+author: Michael Laurence Curzi (@sykomiked)
 discussions-to: (in process)
 status: Draft
 type: Standards Track
